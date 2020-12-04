@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content component renders correctly 1`] = `
+<div
+  className="sc-AxjAm hlQUYJ"
+>
+  <div
+    className="sc-AxirZ dxHEKL"
+  >
+    <div
+      className="sc-AxgMl gdkyin"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header component renders correctly 1`] = `
+<div
+  className="sc-AxjAm juZLGC"
+>
+  <div
+    className="sc-AxirZ gyqzDN"
+  >
+    <a
+      aria-current={null}
+      href="/list1"
+      onClick={[Function]}
+    >
+      List 1
+    </a>
+    <a
+      aria-current={null}
+      href="/list2"
+      onClick={[Function]}
+    >
+      List 2
+    </a>
+  </div>
+</div>
+`;
